@@ -5,10 +5,10 @@
 
 ## What type of change is this? (Bug fix, feature, docs update, etc.)
 
-- [] Bug fix
-- [] Feature
-- [] Docs update
-- [] Other... Please describe:
+- [ ] Bug fix
+- [ ] Feature
+- [ ] Docs update
+- [ ] Other... Please describe:
 
 ## How should this be manually tested?
 
